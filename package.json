@@ -1,0 +1,33 @@
+{
+  "name": "blockchain-land-registry-property-ownership",
+  "version": "1.0.0",
+  "description": "Educational blockchain land registry prototype using Solidity smart contracts for property registration, verification, ownership transfer, document-hash verification, and auditable ownership history.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "hash": "node scripts/generateHash.js"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "land-registry",
+    "real-estate",
+    "property",
+    "ethereum",
+    "smart-contract",
+    "web3",
+    "proptech",
+    "hardhat",
+    "ethersjs",
+    "dapp"
+  ],
+  "author": "Student Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
