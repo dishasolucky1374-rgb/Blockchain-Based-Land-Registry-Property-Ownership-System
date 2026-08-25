@@ -1,0 +1,9 @@
+{
+  "propertyId": "P001",
+  "surveyNumber": "SY-2024-0456",
+  "dummyOwner": "Owner A (Test Wallet 2)",
+  "location": "Sector 12, Dummy City, Test State",
+  "area": "1500 sq. ft.",
+  "propertyType": "Residential",
+  "note": "This is 100% synthetic dummy data created for a blockchain course project. It does not represent any real property, person, or government record."
+}
