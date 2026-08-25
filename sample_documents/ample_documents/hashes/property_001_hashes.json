@@ -1,0 +1,8 @@
+{
+  "originalDocument": "sample_documents/property_001.json",
+  "originalHash": "29aab86b0fea7771d5e78bf815890e00ece623f1e24f69d9bbbbc87317f419c1",
+  "modifiedDocument": "sample_documents/property_001_modified.json",
+  "modifiedHash": "66d80729a0c2eecd411c204d07e741cf7494d3df24f26151e3565ba234dacae2",
+  "hashesMatch": false,
+  "generatedAt": "2026-08-24T15:48:14.177Z"
+}
